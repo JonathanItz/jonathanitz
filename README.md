@@ -20,7 +20,7 @@
 
 <br/>
 
-<h3 align="center" 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center">🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-itzen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jonathan%20Itzen-blue?style=flat-square&logo=linkedin"></a>
