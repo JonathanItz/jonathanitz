@@ -27,8 +27,6 @@ I'm a full stack web developer. I focus on the TALL stack but work with all thin
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Illustrator&color=222222&logo=adobeillustrator&logoColor=FF9A00&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=222222&logo=figma&logoColor=F24E1E&label=)
 
-![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=222222&logo=linkedin&logoColor=F24E1E&label=)
-
 
 <br/>
 
