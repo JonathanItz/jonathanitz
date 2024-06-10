@@ -2,8 +2,6 @@
 
 I'm a full stack web developer. I focus on the TALL stack but work with all things related to the web. View my repos and connect with with me below!
 
-<a href="https://jonathanitzen.com">💻 View my site<a>
-
 ### Here's my main tech stack
 
 ![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=222222&logo=tailwindcss&logoColor=06B6D4&label=)
