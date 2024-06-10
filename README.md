@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a full stack web developer. I focus on the TALL stack but work with all things related to the web. View my repos and connect with with me below!
+I'm a full stack web developer. I focus on the TALL stack but work with all things related to the web. View my repos and connect with me below!
 
 ### Here's my main tech stack
 
