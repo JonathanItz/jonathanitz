@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a full stack web developer. My main focus is the TALL stack but I work with all things related to the web. I've been programming since 2017 and have created many things I'm proud of. I program is a couple different languages but PHP and JavaScript are my favorite.
+I'm a full-stack web developer. My main focus is the TALL stack, but I work with all things related to the web. I've been programming since 2017 and have created many things I'm proud of. I program in several languages, but PHP and JavaScript are my favorites.
 
 ### Here's my main tech stack
 
