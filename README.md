@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a full stack web developer. I focus on the TALL stack but work with all things related to the web. View my repos and connect with me below!
+I'm a full stack web developer. My main focus is the TALL stack but I work with all things related to the web. I've been programming since 2017 and have created many things I'm proud of. I program is a couple different languages but PHP and JavaScript are my favorite.
 
 ### Here's my main tech stack
 
@@ -9,7 +9,7 @@ I'm a full stack web developer. I focus on the TALL stack but work with all thin
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=222222&logo=laravel&logoColor=FF2D20&label=)
 ![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=222222&logo=livewire&logoColor=4E56A6&label=)
 
-### I'm also experienced in
+### I also work with
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=222222&logo=php&logoColor=777BB4&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=wordpress&logoColor=21759B&label=)
@@ -23,9 +23,22 @@ I'm a full stack web developer. I focus on the TALL stack but work with all thin
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=222222&logo=mysql&logoColor=4479A1&label=)
 ![Salesforce](https://img.shields.io/static/v1?style=for-the-badge&message=Salesforce&color=222222&logo=Salesforce&logoColor=00A1E0&label=)
 ![SEO](https://img.shields.io/static/v1?style=for-the-badge&message=SEO&color=222222&label=)
-![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS%20&color=222222&logo=visualstudiocode&logoColor=007ACC&label=)
+
+![Digital Ocean](https://img.shields.io/static/v1?style=for-the-badge&message=Digital%20Ocean&color=222222&logo=digitalocean&logoColor=0080FF&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=222222&logo=vercel&logoColor=000000&label=)
+![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=222222&logo=cloudflare&logoColor=F38020&label=)
+
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=222222&logo=git&logoColor=F05032&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=222222&logo=github&logoColor=181717&label=)
+![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=222222&logo=bitbucket&logoColor=0052CC&label=)
+
+![VS Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS%20Code&color=222222&logo=visualstudiocode&logoColor=007ACC&label=)
+
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Illustrator&color=222222&logo=adobeillustrator&logoColor=FF9A00&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=222222&logo=figma&logoColor=F24E1E&label=)
+
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=222222&logo=jirasoftware&logoColor=0052CC&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=222222&logo=trello&logoColor=0052CC&label=)
 
 
 <br/>
