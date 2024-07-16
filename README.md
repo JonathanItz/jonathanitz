@@ -47,5 +47,5 @@ I'm a full-stack web developer. My main focus is the TALL stack, but I work with
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-itzen/"><img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=222222&logo=linkedin&logoColor=06B6D4&label=Jonathan Itzen"></a>
-<a href="mailto:jonathanitzen95@gmail.com"><img alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=222222&logo=gmail&logoColor=06B6D4&label=jonathanitzen95@gmail.com"></a>
+<a href="mailto:hello@jonathanitzen.com"><img alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=222222&logo=gmail&logoColor=06B6D4&label=hello@jonathanitzen.com"></a>
 </p>
