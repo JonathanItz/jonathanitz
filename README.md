@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a full-stack web developer. I'm passionate about PHP and JavaScript. I work with PHP, Laravel, WordPress, Vue and React. I've been programming since 2017 and have created many things I'm proud of. I program in many languages, but PHP and JavaScript are my favorites. Visit my site for my work - <a href="https://jonathanitzen.com">https://jonathanitzen.com</a>
+Hey there! 👋 I'm a full-stack web developer who's been crafting digital experiences with PHP and JavaScript since 2017. My toolkit is packed with PHP, Laravel, WordPress, Vue, and React - the perfect combo for bringing ideas to life on the web. While I'm fluent in many coding languages, PHP and JavaScript are my go-to for turning coffee into code. I've built a bunch of projects that I'm pretty proud of. Curious about what I can create? Swing by my digital showcase and see my work in action! 💻🚀 <a href="https://jonathanitzen.com">https://jonathanitzen.com</a>
 
 ### Tech I use
 
