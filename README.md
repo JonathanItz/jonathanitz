@@ -1,19 +1,17 @@
 ## Hello!
 
-I'm a full-stack web developer. My main focus is the TALL stack, but I work with all things related to the web. I've been programming since 2017 and have created many things I'm proud of. I program in several languages, but PHP and JavaScript are my favorites.
+I'm a full-stack web developer. I'm passionate about PHP and JavaScript. I work with PHP, Laravel, WordPress, Vue and React. I've been programming since 2017 and have created many things I'm proud of. I program in many languages, but PHP and JavaScript are my favorites. Visit my site for my work - <a href="https://jonathanitzen.com">https://jonathanitzen.com</a>
 
-### Here's my main tech stack
+### Tech I use
 
 ![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=222222&logo=tailwindcss&logoColor=06B6D4&label=)
 ![Alpine](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=222222&logo=laravel&logoColor=FF2D20&label=)
 ![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=222222&logo=livewire&logoColor=4E56A6&label=)
-
-### I also work with
-
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=222222&logo=php&logoColor=777BB4&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=wordpress&logoColor=21759B&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=javascript&logoColor=F7DF1E&label=)
+![VueJS](https://img.shields.io/static/v1?style=for-the-badge&message=VueJS&color=222222&logo=vuedotjs&logoColor=42b883&label=)
 ![NextJS](https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=222222&logo=nextdotjs&logoColor=000000&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=react&logoColor=61DAFB&label=)
 ![NodeJS](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJS&color=222222&logo=nodedotjs&logoColor=5FA04E&label=)
