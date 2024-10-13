@@ -1,6 +1,6 @@
 ## Hello!
 
-Hey there! 👋 I'm a full-stack web developer who's been crafting digital experiences with PHP and JavaScript since 2017. My toolkit is packed with PHP, Laravel, WordPress, Vue, and React - the perfect combo for bringing ideas to life on the web. While I'm fluent in many coding languages, PHP and JavaScript are my go-to for turning coffee into code. I've built a bunch of projects that I'm pretty proud of. Curious about what I can create? Swing by my digital showcase and see my work in action! 💻🚀 <a href="https://jonathanitzen.com">https://jonathanitzen.com</a>
+Hey there! 👋 I'm a software engineer who's been crafting digital experiences since 2017. My toolkit is packed with PHP, Laravel, Vue, React and NodeJS - the perfect combo for bringing ideas to life on the web. While I'm fluent in many coding languages, PHP and JavaScript are my go-to for turning coffee into code. I'm also very passionate about learning new technologies allowing me to work with all sorts of code. I've built a bunch of projects that I'm pretty proud of. Curious about what I've created? Check out my portfolio! 💻🚀 <a href="https://jonathanitzen.com">https://jonathanitzen.com</a>
 
 ### Tech I use
 
